@@ -1,0 +1,2 @@
+# algoritmia
+tareas personales
